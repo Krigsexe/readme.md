@@ -191,3 +191,4 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=120&section=footer&text=Thanks%20for%20visiting!%20|%20Merci%20pour%20votre%20visite!&fontSize=20&fontColor=ffffff&fontAlignY=65"/>
 </div>
+
