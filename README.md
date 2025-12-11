@@ -6,7 +6,6 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Building+Infrastructure+%26+Code;SysAdmin+%7C+Network+Engineer+%7C+Developer;5%2B+Years+of+Entrepreneurial+Experience;Passionate+about+AI+%26+Innovation" alt="Typing SVG" /></a>
 
-<!-- Badges -->
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Krigsexe&color=8B5CF6&style=for-the-badge)](https://github.com/Krigsexe)
@@ -15,11 +14,9 @@
 
 <br/>
 
-<!-- Social Links -->
 [![Discord](https://img.shields.io/badge/Discord-Proxitek-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/proxitek)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github.mocker221@passfwd.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-proxitek.fr-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)](https://proxitek.fr)
-[![Website](https://img.shields.io/badge/Website-wcx--host.fr-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wcx-host.fr)
+[![Tech Watch](https://img.shields.io/badge/Tech%20Watch-proxitek.fr-00D9FF?style=for-the-badge&logo=rss&logoColor=white)](https://proxitek.fr)
 
 </div>
 
@@ -36,7 +33,7 @@
 <br/>
 
 - 🔧 **SysAdmin & Network Engineer** - Infrastructure specialist
-- 🧠 **Founder of [Man-Q-ind](https://proxitek.fr)** - AI Ethics Research
+- 🧠 **Founder of Man-Q-ind** - AI Ethics Research
 - 🖥️ **Creator of [ODIN Framework](https://github.com/Krigsexe/AI-Context-Engineering)** - Autonomous AI Agent
 - 🚀 **5+ years** of entrepreneurial experience
 - 🎮 **FiveM Developer** - QBCore, ESX & Custom Scripts
@@ -63,8 +60,13 @@
 ### ⚙️ Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🐧 Systems
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -79,6 +81,27 @@
 ![FiveM](https://img.shields.io/badge/FiveM-FF6600?style=for-the-badge&logo=rockstar-games&logoColor=white)
 ![QBCore](https://img.shields.io/badge/QBCore-2E8B57?style=for-the-badge&logo=lua&logoColor=white)
 ![ESX](https://img.shields.io/badge/ESX-FF4500?style=for-the-badge&logo=lua&logoColor=white)
+
+</div>
+
+---
+
+## 🎖️ Certifications
+
+<div align="center">
+
+![CKA](https://img.shields.io/badge/CKA-Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Certified-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-Developer-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![React](https://img.shields.io/badge/React-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Certified-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-Developer-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
+[![Google](https://img.shields.io/badge/Google-Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
+[![Microsoft](https://img.shields.io/badge/Microsoft-Partner-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)](https://partner.microsoft.com/)
 
 </div>
 
@@ -119,38 +142,31 @@
 
 ---
 
+## 🚀 Featured Projects | Projets
+
+<div align="center">
+
+[![Yggdrasil](https://img.shields.io/badge/🌳_Yggdrasil-Infrastructure_Core-8B5CF6?style=for-the-badge)](https://github.com/Krigsexe/yggdrasil)
+[![AI-Context-Engineering](https://img.shields.io/badge/🤖_AI--Context--Engineering-ODIN_Framework-06B6D4?style=for-the-badge)](https://github.com/Krigsexe/AI-Context-Engineering)
+
+[![Aiops](https://img.shields.io/badge/⚙️_Aiops-AI_Operations-FF6B6B?style=for-the-badge)](https://github.com/Krigsexe/Aiops)
+[![Majordome](https://img.shields.io/badge/🏠_Majordome-Home_Automation-4ECDC4?style=for-the-badge)](https://github.com/Krigsexe/Majordome)
+
+</div>
+
+---
+
 ## 🏢 Professional Achievements | Réalisations
 
 <div align="center">
 
-| Client | Services |
-|:------:|:---------|
-| 🪑 **[Daviaud Ameublement](https://daviaud-ameublement.fr)** | Website Development, CCTV Installation, Complete Infrastructure |
-| 🏪 **[Carrefour Beaujoire](https://g.co/kgs/hfY6onB)** | CCTV System, Audio Marketing, Network Infrastructure, VoIP, Ubiquiti Security |
-
-</div>
-
----
-
-## 🚀 Featured Projects | Projets Phares
-
-<div align="center">
-
-[![ODIN](https://img.shields.io/badge/🤖_ODIN_Framework-Autonomous_AI_Agent-8B5CF6?style=for-the-badge)](https://github.com/Krigsexe/AI-Context-Engineering)
-[![Man-Q-ind](https://img.shields.io/badge/🧠_Man--Q--ind-AI_Ethics_Research-06B6D4?style=for-the-badge)](https://proxitek.fr)
-[![FiveM](https://img.shields.io/badge/🎮_FiveM_Scripts-QBCore_&_ESX-FF6600?style=for-the-badge)](https://wcx-host.fr)
-
-</div>
-
----
-
-## 🎖️ Certifications
-
-<div align="center">
-
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-Developer-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
-[![Google](https://img.shields.io/badge/Google-Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
-[![Microsoft](https://img.shields.io/badge/Microsoft-Partner-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)](https://partner.microsoft.com/)
+| 🇨🇭 Suisse | 🇫🇷 France |
+|:----------|:----------|
+| [**Solvin.ch**](https://solvin.ch) - Business Solutions | [**Daviaud Ameublement**](https://daviaud-ameublement.fr) - E-commerce & Infrastructure |
+| [**Alixia.ch**](https://alixia.ch) - Main Platform | [**Carrefour Beaujoire**](https://g.co/kgs/hfY6onB) - CCTV, VoIP, Network |
+| [**Ai.alixia.ch**](https://ai.alixia.ch) - AI Services | |
+| [**Docs.alixia.ch**](https://docs.alixia.ch) - Documentation | |
+| [**Support**](https://alixia.ch) - Client Support | |
 
 </div>
 
@@ -162,8 +178,6 @@
 
 > *"L'importance d'une mise à jour n'est pas de se demander combien de temps vais-je perdre à la faire, mais combien je peux en gagner pour l'avenir..."*
 >
-> *"The importance of an update is not to wonder how much time I will lose doing it, but how much I can gain for the future..."*
->
 > **— Julien Gelée**
 
 </div>
@@ -174,9 +188,7 @@
 
 <div align="center">
 
-**Open to collaborations on:** Infrastructure projects, AI development, Network solutions, FiveM scripting, Open source contributions
-
-**Ouvert aux collaborations sur:** Projets d'infrastructure, Développement IA, Solutions réseau, Scripting FiveM, Contributions open source
+**Open to collaborations on:** Infrastructure, AI development, Network solutions, FiveM scripting, Open source
 
 <br/>
 
